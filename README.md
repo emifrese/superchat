@@ -2,7 +2,7 @@
 
 ### Try it!
 
-https://elated-swirles-e1c17c.netlify.app/
+https://suspicious-yonath-bb2dcf.netlify.app/
 
 ## Style
 
